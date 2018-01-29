@@ -5,7 +5,7 @@
 Fraction4123::Fraction4123()
 {
   num = 0;
-  den = 1;
+  den = 111;
 }
 //2.  Imprement parameterized constructor
 //    Set num and den to values passed through parameters - Samuel Mullins
